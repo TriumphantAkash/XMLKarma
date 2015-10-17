@@ -1,0 +1,198 @@
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="books.xsd">
+<!--Book1-->
+<bookinfo>
+<title>Harry Potter</title>
+<isbn>101-564-9915</isbn>
+<price currency="dollar">36.54</price>
+<publication_date>2008-09-10</publication_date>
+<circulation_time>6Years 10Months 11Days</circulation_time>
+<authors>
+<authorinfo>
+<name>
+<last_name>Rowling</last_name>
+<middle_name>K.</middle_name>
+<first_name>Jacob</first_name>
+</name>
+<date_of_birth>1952-10-03</date_of_birth>
+<education>BS</education>
+<address>
+<street>9 Park</street>
+<apt>364</apt>
+<city>Atlanta</city>
+<zip_code>69822</zip_code>
+<country>USA</country>
+</address>
+</authorinfo>
+</authors>
+<publisher>
+<publisher_name>James Series</publisher_name>
+<publisher_address>
+<street>2 Uptown</street>
+<suite_no>1021</suite_no>
+<city>California</city>
+<zip_code>34234</zip_code>
+<country>USA</country>
+</publisher_address>
+</publisher>
+</bookinfo>
+<!--Book2-->
+<bookinfo>
+<title>The Stranger</title>
+<isbn>200-401-0012</isbn>
+<price currency="dollar">121.50</price>
+<publication_date>2012-05-25</publication_date>
+<circulation_time>2Years 10Months 28Days</circulation_time>
+<authors>
+<authorinfo>
+<name>
+<last_name>Archer</last_name>
+<middle_name>P.</middle_name>
+<first_name>Jeferry</first_name>
+</name>
+<date_of_birth>1965-05-01</date_of_birth>
+<education>MS</education>
+<address>
+<street>5 Collin</street>
+<apt>101</apt>
+<city>Virginia</city>
+<zip_code>95221</zip_code>
+<country>USA</country>
+</address>
+</authorinfo>
+</authors>
+<publisher>
+<publisher_name>Yale Inc</publisher_name>
+<publisher_address>
+<street>9 Downing</street>
+<suite_no>62</suite_no>
+<city>Colorado</city>
+<zip_code>20113</zip_code>
+<country>USA</country>
+</publisher_address>
+</publisher>
+</bookinfo>
+<!-- Book3 -->
+<bookinfo>
+<title>Two States</title>
+<isbn>201-005-8874</isbn>
+<price currency="dollar">112.45</price>
+<publication_date>2009-04-14</publication_date>
+<circulation_time>5Years 11Months 28Days</circulation_time>
+<authors>
+<authorinfo>
+<name>
+<last_name>Bhagat</last_name>
+<middle_name>O.</middle_name>
+<first_name>Chetan</first_name>
+</name>
+<date_of_birth>1975-02-12</date_of_birth>
+<education>MBA</education>
+<address>
+<street>12 RajivGhandi</street>
+<apt>253</apt>
+<city>Delhi</city>
+<zip_code>45202</zip_code>
+<country>IND</country>
+</address>
+</authorinfo>
+</authors>
+<publisher>
+<publisher_name>TATA Co</publisher_name>
+<publisher_address>
+<street>88 Dandi</street>
+<suite_no>95</suite_no>
+<city>Mumbai</city>
+<zip_code>74001</zip_code>
+<country>IND</country>
+</publisher_address>
+</publisher>
+</bookinfo>
+<!-- Book4 -->
+<bookinfo>
+<title>Manager Skills</title>
+<isbn>780-666-4100</isbn>
+<price currency="dollar">156.50</price>
+<publication_date>2007-02-19</publication_date>
+<circulation_time>7Years 11Months 23Days</circulation_time>
+<authors>
+<authorinfo>
+<name>
+<last_name>Singh</last_name>
+<middle_name>I.</middle_name>
+<first_name>Kiran</first_name>
+</name>
+<date_of_birth>1975-02-11</date_of_birth>
+<education>BS</education>
+<address>
+<street>56 Danwar</street>
+<apt>957</apt>
+<city>Kolkatta</city>
+<zip_code>85021</zip_code>
+<country>IND</country>
+</address>
+</authorinfo>
+<authorinfo>
+<name>
+<last_name>Sundar</last_name>
+<middle_name>L.</middle_name>
+<first_name>Srikanth</first_name>
+</name>
+<date_of_birth>1982-11-21</date_of_birth>
+<education>BA</education>
+<address>
+<street>824 Bank</street>
+<apt>611</apt>
+<city>Chennai</city>
+<zip_code>65001</zip_code>
+<country>IND</country>
+</address>
+</authorinfo>
+</authors>
+<publisher>
+<publisher_name>Princeton Publications</publisher_name>
+<publisher_address>
+<street>65 Highcorner</street>
+<suite_no>14</suite_no>
+<city>NewYork</city>
+<zip_code>41251</zip_code>
+<country>USA</country>
+</publisher_address>
+</publisher>
+</bookinfo>
+<!-- Book5 -->
+<bookinfo>
+<title>Three Idiots</title>
+<isbn>165-441-6625</isbn>
+<price currency="dollar">102.00</price>
+<publication_date>2006-02-08</publication_date>
+<circulation_time>8Years 10Months 14Days</circulation_time>
+<authors>
+<authorinfo>
+<name>
+<last_name>Bhagat</last_name>
+<middle_name>O.</middle_name>
+<first_name>Chetan</first_name>
+</name>
+<date_of_birth>1975-02-12</date_of_birth>
+<education>BA</education>
+<address>
+<street>12 RajivGhandi</street>
+<apt>253</apt>
+<city>Delhi</city>
+<zip_code>45202</zip_code>
+<country>IND</country>
+</address>
+</authorinfo>
+</authors>
+<publisher>
+<publisher_name>TATA Co</publisher_name>
+<publisher_address>
+<street>88 Dandi</street>
+<suite_no>95</suite_no>
+<city>Mumbai</city>
+<zip_code>74001</zip_code>
+<country>IND</country>
+</publisher_address>
+</publisher>
+</bookinfo>
+</books>
