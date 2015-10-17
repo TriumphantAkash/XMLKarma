@@ -72,24 +72,11 @@
 	</xsi:simpleType>
 
 
-
-	<xsi:complexType name="Addresstype">
-		<xsi:sequence>
-			<xsi:element name="street" type="StreetType"/>
-			<xsi:element name="apt" type="AptNoType" minOccurs="0"/>
-			<xsi:element name="city" type="NameFirstCap"/>
-			<xsi:element name="zip_code" type="ZipType"/>
-			<xsi:element name="country" type="CountryType"/>
-		</xsi:sequence>
-	</xsi:complexType>
-
-
 	<xsi:complexType name="Authortype" mixed="true">
 		<xsi:sequence>
 			<xsi:element name="name" type="AuthorName_type"/>
 			<xsi:element name="date_of_birth" type="DateType"/>
 			<xsi:element name="education" type="EducationLevelType"/>
-			<xsi:element name="address" type="Addresstype"/>
 		</xsi:sequence>
 	</xsi:complexType>
 
